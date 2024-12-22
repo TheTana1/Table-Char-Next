@@ -1,4 +1,4 @@
-import { GetUsers } from "@/components/user";
+import { GetUsers } from "@/components/User";
 
 export default function UsersPage(){
 
