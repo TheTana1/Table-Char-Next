@@ -1,4 +1,4 @@
-import TableChar from "./components/TableChar";
+import TableChar from "../components/TableChar";
 
 export default function Home() {
   return (
